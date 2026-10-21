@@ -1,14 +1,6 @@
-# A Python Script Runner to get OHLCV data from trading platform
+A Python Script Runner to get OHLCV data from trading platform
 
-A small Python launcher that runs three scripts sequentially:
-
-1. `1h.py`
-2. `15m.py`
-3. `5m.py`
-
-The launcher prints a status message before starting each script and invokes each one using Python.
-
-It used basically to get olhcv data from trading platform open API
+A small Python launcher that runs basically to get olhcv data from trading platform open API
 
 ## Project Structure
 
