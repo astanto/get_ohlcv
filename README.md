@@ -1,4 +1,4 @@
-Python Script Runner to get OHLCV data from trading platform
+Python Script Runner to get OHLCV (Open High Low Close Volume) data from trading platform
 
 A small Python launcher that runs basically to get olhcv data from trading platform open API
 
