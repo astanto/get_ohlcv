@@ -28,6 +28,12 @@ autom4te.cache
 /install-sh
 /missing
 /stamp-h1
+/BTCUSDT_5m_data.xlsx
+/BTCUSDT_5m_data.csv
+/BTCUSDT_15m_data.xlsx
+/BTCUSDT_15m_data.csv
+/BTCUSDT_1h_data.xlsx
+/BTCUSDT_1h_data.csv
 
 # https://www.gnu.org/software/libtool/
 
