@@ -1,4 +1,4 @@
-# Multi-Timeframe Python Script Runner
+# Python Script Runner to get OHLCV data from trading platform
 
 A small Python launcher that runs three scripts sequentially:
 
