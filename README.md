@@ -1,4 +1,4 @@
-# Python Script Runner to get OHLCV data from trading platform
+# A Python Script Runner to get OHLCV data from trading platform
 
 A small Python launcher that runs three scripts sequentially:
 
